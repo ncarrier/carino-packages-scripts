@@ -7,7 +7,6 @@ LOCAL_DESCRIPTION := Various utility scripts for the carino system
 LOCAL_CATEGORY_PATH := system
 
 LOCAL_COPY_FILES := \
-	config_network:bin/ \
 	fake_service:bin/ \
 	ldd:bin/ \
 	service:bin/
